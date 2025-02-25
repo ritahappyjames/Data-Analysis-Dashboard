@@ -19,4 +19,5 @@ f. Age-wise winners - Stacked Column Chart
 Make it interactive single page dashboard with Year range selection
 ### 3. Publish to Which Workspace
  Publish this dashboard in the ‘Pramod’ workspace.
+- <a href="https://github.com/ritahappyjames/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-25%20152039.png">Dashboard</a>
 
