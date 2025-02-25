@@ -1,9 +1,9 @@
 # Data-Analysis-Dashboard
-Objective
+## Objective
 To showcase how the Olympics has evolved since it started in Athens.
-Tables Used and Data Modeling
+## Tables Used and Data Modeling
 This dataset contains 2 tables, in CSV format: The Athlete Events table contains over 270,000 Olympic performances across history, Each record represents an individual athlete competing in an individual event, Records contain details about the athlete (ID, sex, name, age, height, weight, country) and the event (games, year, city, sport, event, medal) The Country Definitions table serves as a lookup table with “NOC” as the primary key, Each record represents one country according to the National Olympic Committee
-2 . Technical Specifications
+## 2. Technical Specifications
 Graphs & amp; Charts –
 a. Medals by country - top 10
 Date Printed: 2/19/2025 Page 2 of 4
