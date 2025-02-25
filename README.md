@@ -19,4 +19,4 @@ File Name: High_Level_Technical_Design_Template.docx NUIT Confidential
 Make it interactive single page dashboard with Year range selection
 ### 3. Publish to Which Workspace
  Publish this dashboard in the ‘Pramod’ workspace.
-"C:\Users\ritaj\Downloads\IMG_2437.jpg"
+ - <a href="https://github.com/ritahappyjames/Data-Analysis-Dashboard/blob/main/IMG_2437.jpg">Dashboard</a>
