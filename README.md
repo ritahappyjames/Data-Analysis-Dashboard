@@ -8,14 +8,14 @@ This dataset contains 2 tables, in CSV format: The Athlete Events table contains
 
 ### 2. Technical Specifications
 Graphs & amp; Charts –
-a. Medals by country - top 10
+- Medals by country - top 10
 Date Printed: 2/19/2025 Page 2 of 4
 File Name: High_Level_Technical_Design_Template.docx NUIT Confidential
-b. Gender-wise participation since 1900 - Line chart
-c. Top sports participated by females - Funnel
-d. Top medal winner in Olympics career. - Stacked Bar Chart
-e. Number of participants by year - Clustered Column Chart
-f. Age-wise winners - Stacked Column Chart
+- Gender-wise participation since 1900 - Line chart
+- Top sports participated by females - Funnel
+- Top medal winner in Olympics career. - Stacked Bar Chart
+- Number of participants by year - Clustered Column Chart
+- Age-wise winners - Stacked Column Chart
 Make it interactive single page dashboard with Year range selection
 ### 3. Publish to Which Workspace
  Publish this dashboard in the ‘Pramod’ workspace.
