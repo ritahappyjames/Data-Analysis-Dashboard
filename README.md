@@ -19,5 +19,4 @@ File Name: High_Level_Technical_Design_Template.docx NUIT Confidential
 Make it interactive single page dashboard with Year range selection
 ### 3. Publish to Which Workspace
  Publish this dashboard in the ‘Pramod’ workspace.
-- <a href="https://app.powerbi.com/groups/25f9ef2d-7ac7-4959-be2e-bb786c78e2d1/reports/1f2a0739-87a9-44f7-877a-6bc6cc0ea269/1d87366b839900a7ab00?experience=power-bi">Dashboard</a>
-
+"C:\Users\ritaj\Downloads\IMG_2437.jpg"
